@@ -1,0 +1,4 @@
+Waarom zou elke programmeur Java moeten leren?
+Heel simpel. Java is populair, het is gemakkelijk te leren, je hebt vele opensource hulpmiddelen en
+bibliotheken en natuurlijk biedt het een mooie carriere en een vet salaris.
+
